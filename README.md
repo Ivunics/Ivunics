@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Ivunics 👋<br>🐧M&Ms <br><br>- 🔭 I’m planning to learn Python, C, C++, java and javascript in the future<br>- 🌱 I’m currently learning to use GitHub.<br>- 💻 I have a few experience when it comes to HTML and CSS <br>
+### Hi, I'm Ivunics 👋<br>:🏋 <br><br>- 🔭 I’m planning to learn Python, C, C++, java and javascript in the future<br>- 🌱 I’m currently learning to use GitHub.<br>- 💻 I have a few experience when it comes to HTML and CSS <br>
 
 
 ## 🌐 Socials:
